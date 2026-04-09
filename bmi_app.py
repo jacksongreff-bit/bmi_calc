@@ -16,6 +16,6 @@ if weight > 0 and height > 0:
     elif 25 <= bmi < 30:
         st.warning("You are Overweight 😐")
     else:
-        st.error("You are Obese 😟")
+        st.error("You are a chud 😟")
 else:
     st.write("Please enter valid weight and height values to calculate BMI.")
